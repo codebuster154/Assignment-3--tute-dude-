@@ -26,8 +26,5 @@ This assignment contains two tasks demonstrating the use of **functions** and th
   - The **sine** of the number (in radians).  
 - Display the calculated results.  
 
-### Expected Output
-For example, if the user enters `25`, the output will be:
-
 
 
